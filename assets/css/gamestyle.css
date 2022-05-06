@@ -1,0 +1,39 @@
+body{
+text-align:center;
+margin:0;
+border:0;
+background-color:#F2F2F2;}
+
+
+.color{width:20%;
+float:left;
+height:25%;
+position:relative;
+cursor:pointer;
+}
+.colors{
+position:absolute;
+background:red;
+width:100%;
+height:100%;
+top:65px;}
+span{
+color:white;
+}
+
+.color a{
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    line-height: 45px;
+    color: #fff!important;
+    border-radius: 5px;
+    border: 2px solid hsla(0,0%,100%,.2);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -50px;
+    margin-top: -22.5px;
+
+}

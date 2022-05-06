@@ -1,0 +1,59 @@
+body{background-color:#B5EAEA;
+text-align:center;
+}
+h1{
+color:white;
+font-family:"罗西钢笔行楷";
+letter-spacing:2px;
+line-height:2;
+}
+
+
+.video_section{
+text-align:center;
+width:82%;
+padding:10px auto;
+margin:auto;}
+
+.ppt{
+width:90%;
+margin:auto;}
+hr{border:dotted;
+width:5%;
+color:white;
+margin:50px auto;
+}
+
+#video1{
+width:100%;
+position: relative;}
+
+.link{
+position:absolute;
+left:47%;
+top:27%;
+font-size:40px;
+}
+
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #F94892;
+  font-size:10px;
+  background: #FBE5E5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position:fixed;
+  left:-1%;
+  top:30%;
+
+
+}
+
+.btn:hover {
+  background: #FFA1C9;
+  text-decoration: none;
+}
